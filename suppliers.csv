@@ -1,0 +1,51 @@
+supplier_id,supplier_location,financial_health_score,historical_on_time_rate
+SUP000,"West Harry, Tuvalu",5,0.6697110521792328
+SUP001,"New Barbaraville, Zimbabwe",5,0.6204421887743641
+SUP002,"Antonioside, Bangladesh",6,0.7440406563101915
+SUP003,"Burtonmouth, Namibia",3,0.8580829014641712
+SUP004,"Meganton, Russian Federation",4,0.714344219980114
+SUP005,"Lake Alexander, Malawi",9,0.628366239123335
+SUP006,"New Williammouth, Guinea-Bissau",3,0.703264597932338
+SUP007,"Ninaville, Cote d'Ivoire",8,0.9331488056786965
+SUP008,"Paulshire, Cape Verde",6,0.925512511942056
+SUP009,"Heatherbury, Montserrat",6,0.7497869133896319
+SUP010,"Millerhaven, Bahamas",7,0.7663371316665905
+SUP011,"North Scotthaven, Qatar",2,0.7959267579504878
+SUP012,"Doughertyshire, Northern Mariana Islands",9,0.6767533404309478
+SUP013,"Sharonmouth, Singapore",1,0.8518986679739975
+SUP014,"North Michelle, Guinea",9,0.8779784707597136
+SUP015,"Merrittshire, Comoros",7,0.8989368142957768
+SUP016,"East Claudiaton, Mayotte",4,0.6916373656410187
+SUP017,"Stanleybury, Estonia",6,0.7626159732971262
+SUP018,"Matthewburgh, Georgia",8,0.6715187758386478
+SUP019,"East Michael, Mexico",3,0.615311613403252
+SUP020,"Sellersview, Comoros",5,0.9757482529922733
+SUP021,"Maryburgh, Armenia",3,0.7619387585630716
+SUP022,"Sabrinaburgh, Philippines",1,0.8697410285609382
+SUP023,"Christopherstad, Netherlands",4,0.9282959698166091
+SUP024,"East Laurafurt, Lebanon",8,0.9472854800629993
+SUP025,"East Jonathan, Austria",2,0.8260196421382422
+SUP026,"North George, Nepal",8,0.743662648440823
+SUP027,"New Tanya, Venezuela",7,0.6868132099793914
+SUP028,"North Neilview, New Zealand",5,0.7123537250066246
+SUP029,"Holmesborough, Greece",5,0.9722723799542758
+SUP030,"Dayville, Djibouti",8,0.9622410113898663
+SUP031,"Lake Williamfort, Malta",9,0.6645770010949934
+SUP032,"North Monique, Bolivia",4,0.6030611316233159
+SUP033,"West Zacharychester, Sudan",1,0.741707945476832
+SUP034,"Port Erica, Venezuela",8,0.9233525390207143
+SUP035,"Andrewburgh, Argentina",6,0.9173453637754132
+SUP036,"Lake Donnamouth, Gabon",9,0.9484390379525118
+SUP037,"Alanbury, Bermuda",2,0.8265076793673377
+SUP038,"Sarahstad, Vietnam",9,0.9450103489276727
+SUP039,"Wallerfort, Egypt",7,0.9115176252772977
+SUP040,"Port Arthur, Czech Republic",3,0.8039087860218065
+SUP041,"Johnnyview, El Salvador",8,0.7060368612688961
+SUP042,"Fitzgeraldbury, Lesotho",7,0.8826773791985959
+SUP043,"Hortonfort, Palestinian Territory",9,0.9203533436330122
+SUP044,"West Keith, Pitcairn Islands",8,0.9718147631374399
+SUP045,"West Janetfurt, Korea",8,0.9533263851201038
+SUP046,"Sharontown, Guinea",5,0.6196692696601295
+SUP047,"West Frederick, United Arab Emirates",8,0.8936007960452015
+SUP048,"Kevinhaven, Belize",8,0.9928062223387251
+SUP049,"Michaelview, Bulgaria",5,0.7784589648359966

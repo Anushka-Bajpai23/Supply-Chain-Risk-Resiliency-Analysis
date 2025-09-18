@@ -1,0 +1,31 @@
+event_id,event_type,event_location,event_start_date,event_end_date
+EVT000,Geopolitical Conflict,"Jenniferburgh, Indonesia",2025-07-11,2025-02-03
+EVT001,Geopolitical Conflict,"Kimberlytown, Latvia",2025-09-16,2025-02-07
+EVT002,Supplier Bankruptcy,"Lake Keithbury, Indonesia",2025-02-14,2025-03-01
+EVT003,Port Closure,"Caldwellstad, Eritrea",2025-07-27,2025-04-23
+EVT004,Supplier Bankruptcy,"Rileybury, Fiji",2025-02-14,2025-06-29
+EVT005,Natural Disaster,"Wolfside, Vanuatu",2025-06-23,2025-03-26
+EVT006,Natural Disaster,"East Shawnshire, Iceland",2025-05-11,2025-06-03
+EVT007,Geopolitical Conflict,"South Williammouth, Dominican Republic",2025-02-09,2025-06-04
+EVT008,Port Closure,"Kristenmouth, Armenia",2025-09-15,2025-04-17
+EVT009,Port Closure,"South Cory, Brazil",2025-04-25,2025-09-25
+EVT010,Port Closure,"Port Markview, Nicaragua",2025-06-25,2025-06-19
+EVT011,Port Closure,"Andreaview, Indonesia",2025-01-03,2025-06-12
+EVT012,Supplier Bankruptcy,"Bishopborough, France",2025-06-04,2025-05-27
+EVT013,Natural Disaster,"Port Reneeborough, Vanuatu",2025-03-02,2025-07-24
+EVT014,Natural Disaster,"South Melissachester, Jordan",2025-03-22,2025-05-10
+EVT015,Supplier Bankruptcy,"Butlerville, British Virgin Islands",2025-06-19,2025-09-10
+EVT016,Geopolitical Conflict,"Port Jenniferberg, Uzbekistan",2025-06-15,2025-10-03
+EVT017,Labor Strike,"South Maria, Saint Lucia",2025-03-21,2025-02-21
+EVT018,Geopolitical Conflict,"Gonzalezmouth, Guyana",2025-03-18,2025-07-12
+EVT019,Supplier Bankruptcy,"Mullinshaven, United Kingdom",2025-02-25,2025-05-06
+EVT020,Natural Disaster,"Davisville, Iraq",2025-04-14,2025-04-15
+EVT021,Port Closure,"Sarahhaven, Morocco",2025-02-07,2025-02-18
+EVT022,Geopolitical Conflict,"West Tammymouth, American Samoa",2025-04-09,2025-05-01
+EVT023,Labor Strike,"East Maureenmouth, Burkina Faso",2025-07-05,2025-08-30
+EVT024,Supplier Bankruptcy,"Lake Daniel, Lao People's Democratic Republic",2025-06-08,2025-02-11
+EVT025,Geopolitical Conflict,"Annestad, Nauru",2025-07-23,2025-05-03
+EVT026,Supplier Bankruptcy,"Lake Brandonfort, Iraq",2025-06-22,2025-08-17
+EVT027,Supplier Bankruptcy,"Jenningsland, Marshall Islands",2025-06-01,2025-05-05
+EVT028,Port Closure,"Lake Dianaborough, Pakistan",2025-04-26,2025-05-19
+EVT029,Natural Disaster,"Matthewhaven, Kiribati",2025-06-25,2025-04-23
