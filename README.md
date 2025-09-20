@@ -57,7 +57,7 @@ An interactive dashboard that enables real-time supply chain simulation, scenari
 
 ## 🌐 Live Demo
 
-➡️ [Deploy on Streamlit Cloud](#) *(Ready for deployment)*
+➡️ [Deploy on Streamlit Cloud](https://supplychainanu.streamlit.app/) *(Ready for deployment)*
 
 ---
 
